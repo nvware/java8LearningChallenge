@@ -1,4 +1,4 @@
-package org.nvware.main;
+package org.nvware.question01;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -25,7 +25,8 @@ class Result {
     }
 }
 
-public class MainSolution {
+//Question 1: Write a Java program that prints "Hello, World!" to the console.
+public class Question01Solution {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
