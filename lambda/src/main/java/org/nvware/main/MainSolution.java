@@ -1,4 +1,4 @@
-package org.nvware;
+package org.nvware.main;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -31,7 +31,7 @@ public class MainSolution {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         String s = bufferedReader.readLine();
 
-        String result = org.nvware.Result.sayHello(s);
+        String result = Result.sayHello(s);
         System.out.println(result);
 
         bufferedReader.close();

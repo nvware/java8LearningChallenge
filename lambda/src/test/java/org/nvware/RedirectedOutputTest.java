@@ -4,11 +4,13 @@ package org.nvware;
  * @author <a href="mailto:nvware">Hamid Valizadegan</a>
  * Modified by <a href="mailto:nvware">Hamid Valizadegan</a>
  */
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import static org.junit.Assert.assertEquals;
 
