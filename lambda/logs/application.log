@@ -1,0 +1,8 @@
+2023-05-08 21:24:14,343 [main] INFO  org.nvware.RedirectedOutputTest - Test Input (stdin): World
+
+2023-05-08 21:24:14,345 [main] INFO  org.nvware.RedirectedOutputTest - Test Expected Output: Hello World!
+
+2023-05-08 21:24:14,345 [main] INFO  org.nvware.RedirectedOutputTest - Test Your Output (stdout): Hello World!
+
+2023-05-08 21:24:14,346 [main] INFO  org.nvware.RedirectedOutputTest - runTestCase
+2023-05-08 21:24:14,346 [main] INFO  org.nvware.RedirectedOutputTest - Test Result: Test passed!
